@@ -1,5 +1,5 @@
 # Rest-API-NodeJS
-Rest API criada com Node.JS, Express, Body-parser, MySQL e HEROKU!
+Rest API PRÓPRIA criada com Node.JS, Express, Body-parser, MySQL e HEROKU!
 
 Para testar o consumo da API, disponibilizei uma página para vocês: https://gabrielbels.github.io/Consumindo-RestAPI-NodeJS/
 
