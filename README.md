@@ -1,9 +1,11 @@
 # Rest-API-NodeJS
 Rest API criada com Node.JS, Express, Body-parser, MySQL e HEROKU!
 
-Para consumir a API utilize a URL: 'https://rest-api-gabrielbels.herokuapp.com/produtos/'
+Para testar o consumo da API, disponibilizei uma página para vocês: https://gabrielbels.github.io/
 
-CASO VÁ EXECUTAR LOCALMENTE EM SUA MÁQUINA:
+Para consumir a API em sua máquina utilize a seguinte URL para fazer as requisições: 'https://rest-api-gabrielbels.herokuapp.com/produtos/'
+
+CASO VÁ EXECUTAR O SERVIDOR DA API LOCALMENTE EM SUA MÁQUINA:
 -> Rode o npm init 
 
 -> npm install 
